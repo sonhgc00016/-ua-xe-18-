@@ -1,0 +1,14 @@
+*.suo
+*.sln
+*.sln.docstates
+*.csproj
+*.unityproj
+*.pidb
+*.userprefs
+*.DS_Store
+Thumbs.db
+
+#ignoring pidb, they are just code completion caching data according to:
+# http://stackoverflow.com/questions/1022111/what-are-monodevelops-pidb-files
+*.pidb
+*.userprefs
